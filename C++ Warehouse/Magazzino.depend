@@ -1,0 +1,97 @@
+# depslib dependency file v1.0
+1580655449 source:/home/edoardo/Desktop/C++/Workspace/Magazzino/abstractProduct.cpp
+	<iostream>
+	<string>
+	<map>
+	<algorithm>
+	"abstractProduct.h"
+
+1580655263 /home/edoardo/Desktop/C++/Workspace/Magazzino/abstractProduct.h
+	<iostream>
+	<string>
+	<map>
+	<algorithm>
+
+1580401051 source:/home/edoardo/Desktop/C++/Workspace/Magazzino/kilosProduct.cpp
+	<iostream>
+	<string>
+	<map>
+	"kilosProduct.h"
+
+1580400978 /home/edoardo/Desktop/C++/Workspace/Magazzino/kilosProduct.h
+	<iostream>
+	<string>
+	<map>
+	"abstractProduct.h"
+
+1580401065 source:/home/edoardo/Desktop/C++/Workspace/Magazzino/literProduct.cpp
+	<iostream>
+	<string>
+	<map>
+	"literProduct.h"
+
+1580401003 /home/edoardo/Desktop/C++/Workspace/Magazzino/literProduct.h
+	<iostream>
+	<string>
+	<map>
+	"abstractProduct.h"
+
+1580401059 source:/home/edoardo/Desktop/C++/Workspace/Magazzino/piecesProduct.cpp
+	<iostream>
+	<string>
+	<map>
+	"piecesProduct.h"
+
+1580400992 /home/edoardo/Desktop/C++/Workspace/Magazzino/piecesProduct.h
+	<iostream>
+	<string>
+	<map>
+	"abstractProduct.h"
+
+1581970305 source:/home/edoardo/Desktop/C++/Workspace/Magazzino/productFactory.cpp
+	<iostream>
+	<string>
+	<map>
+	"productFactory.h"
+	"abstractProduct.h"
+	"literProduct.h"
+	"kilosProduct.h"
+	"piecesProduct.h"
+
+1581970416 /home/edoardo/Desktop/C++/Workspace/Magazzino/productFactory.h
+	<iostream>
+	<string>
+	<map>
+	"abstractProduct.h"
+
+1580854416 source:/home/edoardo/Desktop/C++/Workspace/Magazzino/Storage.cpp
+	<iostream>
+	<algorithm>
+	"abstractProduct.h"
+	"literProduct.h"
+	"kilosProduct.h"
+	"piecesProduct.h"
+	<map>
+	<vector>
+	"Storage.h"
+
+1580819822 /home/edoardo/Desktop/C++/Workspace/Magazzino/Storage.h
+	<map>
+	<vector>
+	"abstractProduct.h"
+	<algorithm>
+
+1581969979 source:/home/edoardo/Desktop/C++/Workspace/Magazzino/main.cpp
+	<iostream>
+	<string>
+	<map>
+	<vector>
+	<algorithm>
+	<limits>
+	"abstractProduct.h"
+	"literProduct.h"
+	"kilosProduct.h"
+	"piecesProduct.h"
+	"productFactory.h"
+	"Storage.h"
+
